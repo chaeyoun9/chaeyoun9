@@ -4,16 +4,20 @@
 - 🌱 JAVA, PYTHON, DATA STRUCTURE, ALGORITHM 등을 공부하고 있습니다.
 - ⚡ 테스트와 디버깅을 생활화하는 중입니다.
 - 🖤 좋은 음악과 커피, 그리고 공부하는 것을 좋아합니다.
+
+
+## contact
 - 👌 Email - 0.0cyoun9@gmail.com
 
 
-### front-end
+## Skill
+#### front-end
 -  JSP, HTML/CSS, REACT, VueJS
-### back-end
+#### back-end
 - MyBatis, DJango
-### Database
+#### Database
 - MySQL, Oracle, MongoDB
-### Data
+#### Data
 - Tensorflow, Pytorch,
-### ETC
+#### ETC
 - Docker, Github
