@@ -7,13 +7,13 @@
 - 👌 Email - 0.0cyoun9@gmail.com
 
 
-## front-end
+### front-end
 -  JSP, HTML/CSS, REACT, VueJS
-## back-end
+### back-end
 - MyBatis, DJango
-## Database
+### Database
 - MySQL, Oracle, MongoDB
-## Data
+### Data
 - Tensorflow, Pytorch,
-## ETC
+### ETC
 - Docker, Github
